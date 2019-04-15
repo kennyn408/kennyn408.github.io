@@ -2,10 +2,11 @@
 padding: 0;}
 
 h1{font-size: 45pt;
-	font-family: 'Raleway';
+	font-family: 'Oswald', sans-serif;
 	color: #F56960;}
 h2{font-size: 24pt;
-	color: #2874A6;}
+	color: #2874A6;
+	font-family: 'Lobster', cursive;}
 h3{font-size: 24pt;
 	color: green;}
 h4{font-size: 24pt;
@@ -58,7 +59,7 @@ nav ul li a:hover{
 .container{
 	width: 60%;
 	background-color: #9CF6F6;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Dokdo', cursive;
 	color: white;
 	font-size: 16pt;
 	margin: auto;

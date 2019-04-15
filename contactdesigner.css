@@ -2,7 +2,7 @@
 padding: 0;}
 
 h1{font-size: 45pt;
-	font-family: 'Raleway';
+	font-family: 'Oswald', sans-serif;
 	color: #F56960;}
 
 nav{
@@ -44,7 +44,7 @@ ul{
 .container{
 	width: 60%;
 	background-color: #9CF6F6;
-	color: white;
+	color: #F56960;
 	font-size: 20pt;
 	margin: auto;
 	padding: 20px;
