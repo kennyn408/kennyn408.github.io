@@ -50,7 +50,7 @@ ul{
 .container{
 	width: 60%;
 	background-color: #9CF6F6;
-	color: blue;
+	color: #DAA588;
 	font-size: 20pt;
 	margin: auto;
 	padding: 20px;
@@ -58,7 +58,7 @@ ul{
 
 .container2{
 	width: 90%;
-	background-color: lightgrey;
+	background-color: #F56960;
 	font-size: 20pt;
 	margin: auto;
 	padding: 20px;
