@@ -3,7 +3,7 @@ padding: 0;}
 
 h1{font-size: 45pt;
 	font-family: 'Raleway';
-	color: #F3C98B;}
+	color: #F56960;}
 h2{font-size: 24pt;
 	color: blue;}
 h3{font-size: 24pt;
@@ -67,7 +67,7 @@ nav ul li a:hover{
 
 .container2{
 	width: 78%;
-	background-color: lime;
+	background-color: #F3C98B;
 	font-size: 14pt;
 	margin: auto;
 	padding: 20px;
@@ -75,7 +75,7 @@ nav ul li a:hover{
 
 .container3{
 	width: 78%;
-	background-color: blue;
+	background-color: #DAA588;
 	color: white;
 	font-size: 18pt;
 	margin: auto;
@@ -84,8 +84,8 @@ nav ul li a:hover{
 
 .container4{
 	width: 78%;
-	background-color: navy;
-	color: white;
+	background-color: #C46D5E;
+	color: #F3C98B;
 	font-size: 14pt;
 	margin: auto;
 	padding: 20px;
@@ -93,7 +93,7 @@ nav ul li a:hover{
 
 .container5{
 	width: 78%;
-	background-color: gold;
+	background-color: #F56960;
 	color: teal;
 	font-size: 18pt;
 	margin: auto;
