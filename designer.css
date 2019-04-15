@@ -70,6 +70,7 @@ nav ul li a:hover{
 	width: 78%;
 	background-color: #F3C98B;
 	font-size: 14pt;
+	font-family: 'Josefin Sans', sans-serif;
 	margin: auto;
 	padding: 20px;
 	text-align: center;}
@@ -79,6 +80,7 @@ nav ul li a:hover{
 	background-color: #DAA588;
 	color: white;
 	font-size: 18pt;
+	font-family: 'Josefin Sans', sans-serif;
 	margin: auto;
 	padding: 20px;
 	text-align: center;}
@@ -88,6 +90,7 @@ nav ul li a:hover{
 	background-color: #C46D5E;
 	color: #F3C98B;
 	font-size: 14pt;
+	font-family: 'Josefin Sans', sans-serif;
 	margin: auto;
 	padding: 20px;
 	text-align: center;}
@@ -97,6 +100,7 @@ nav ul li a:hover{
 	background-color: #F56960;
 	color: #9CF6F6;
 	font-size: 18pt;
+	font-family: 'Josefin Sans', sans-serif;
 	margin: auto;
 	padding: 20px;
 	text-align: center;}
