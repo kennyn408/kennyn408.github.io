@@ -1,4 +1,4 @@
-*{margin: 0;
+	*{margin: 0;
 padding: 0;}
 
 h1{font-size: 45pt;
@@ -57,7 +57,7 @@ nav ul li a:hover{
 
 .container{
 	width: 60%;
-	background-color: #F5B7B1;
+	background-color: #9CF6F6;
 	font-family: 'Raleway', sans-serif;
 	color: navy;
 	font-size: 16pt;
