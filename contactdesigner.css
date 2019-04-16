@@ -3,7 +3,7 @@ padding: 0;}
 
 h1{font-size: 45pt;
 	font-family: 'Oswald', sans-serif;
-	color: #F56960;}
+	color: linear-gradient(to right, #ffff66 0%, #ff5050 100%);}
 
 nav{
   max-width: 960px;
