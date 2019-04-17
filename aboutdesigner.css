@@ -66,5 +66,10 @@ ul{
 	padding: 20px;
 	text-align: center;}
 
-  .aboutimages{
-    text-align: center;}
+.container3{
+  width: 100%;
+  text-align: center;
+  background-color: #F56960;}
+
+.aboutimages{
+  text-align: center;}
