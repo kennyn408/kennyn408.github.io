@@ -64,7 +64,8 @@ ul{
   color: white;
   margin: auto;
   padding: 20px;
-  text-align: center;}
+  text-align: center;
+  justify-content: center;}
 
 .container2{
 	width: 90%;
