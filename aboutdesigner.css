@@ -62,7 +62,8 @@ ul{
   font-size: 24pt;
   background-color: #F56960;
   color: white;
-  align-content: center;}
+  margin: auto;
+  padding: 20px;}
 
 .container2{
 	width: 90%;
