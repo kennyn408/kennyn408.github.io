@@ -57,3 +57,13 @@ nav ul li a:hover{
 	margin: auto;
 	padding: 20px;
 	text-align: center;}
+
+.container2{
+  width: 80%;
+  background: linear-gradient(to bottom left, #ff0000 0%, #6600ff 100%);
+  font-family: 'Raleway', sans-serif;
+  color: navy;
+  font-size: 20pt;
+  margin: auto;
+  padding: 20px;
+  text-align: left;}
