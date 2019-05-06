@@ -48,6 +48,15 @@ nav ul li a:hover{
 .active{
 	background-color: #BB8FCE;}
 
+.listofprojects{
+  text-align: center;
+  background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
+  font-family: 'Josefin Sans', sans-serif;
+  width: 33%;
+  margin: auto;
+  padding: 20px;}
+}
+
 .container2{
 	text-align: center;
 	background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
