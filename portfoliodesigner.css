@@ -49,10 +49,10 @@ nav ul li a:hover{
 	background-color: #BB8FCE;}
 
 .listofprojects{
-  text-align: center;
+  text-align: left;
   background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
   font-family: 'Josefin Sans', sans-serif;
-  width: 33%;
+  width: 90%;
   margin: auto;
   padding: 20px;}
 }
