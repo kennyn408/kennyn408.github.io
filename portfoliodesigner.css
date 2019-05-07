@@ -57,6 +57,11 @@ nav ul li a:hover{
   padding: 20px;}
 }
 
+.container2{
+	width: 60%;
+	margin: auto;
+	padding: 20px;}
+
 .gallery{ 
     -webkit-column-count: 3;
     -moz-column-count: 3;
