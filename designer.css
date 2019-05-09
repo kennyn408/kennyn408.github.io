@@ -59,7 +59,7 @@ nav ul li a:hover{
 .container{
 	width: 92%;
 	background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
-	font-family: 'Lobster', cursive;
+	font-family: 'Josefin Sans', sans-serif;
 	color: white;
 	font-size: 20pt;
 	margin: auto;
