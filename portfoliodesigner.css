@@ -58,9 +58,9 @@ nav ul li a:hover{
 	padding: 20px;}
 
 .gallery{ 
-    -webkit-column-count: 5;
-    -moz-column-count: 5;
-    column-count: 5;
+    -webkit-column-count: 6;
+    -moz-column-count: 6;
+    column-count: 6;
     -webkit-column-gap: 10px;
     -moz-column-gap: 10px;
     column-gap: 10px;
