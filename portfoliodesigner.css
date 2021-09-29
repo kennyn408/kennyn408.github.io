@@ -75,7 +75,7 @@ nav ul li a:hover{
     overflow: hidden;}
 
 .gallery img { 
-    width: 100%; 
+    width: 85%; 
     height: auto;
     transition: 500ms;
     margin-bottom: 10px;
