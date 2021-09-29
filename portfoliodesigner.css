@@ -48,13 +48,6 @@ nav ul li a:hover{
 .active{
 	background-color: #BB8FCE;}
 
-.listofprojects{
-  background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
-  font-family: 'Josefin Sans', sans-serif;
-  width: 90%;
-  margin: auto;
-  padding: 20px;}
-
 .container2{
 	text-align: center;
 	background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
@@ -65,9 +58,9 @@ nav ul li a:hover{
 	padding: 20px;}
 
 .gallery{ 
-    -webkit-column-count: 5;
-    -moz-column-count: 5;
-    column-count: 5;
+    -webkit-column-count: 6;
+    -moz-column-count: 6;
+    column-count: 6;
     -webkit-column-gap: 10px;
     -moz-column-gap: 10px;
     column-gap: 10px;
