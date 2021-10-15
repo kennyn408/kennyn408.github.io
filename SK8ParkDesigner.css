@@ -12,6 +12,12 @@ h3{font-size: 20pt;
   text-align: left;
   background-color: #777777;
   margin-right: 600px;}
+h4{font-size: 20pt;
+  color: black;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: right;
+  background-color: #777777;
+  margin-left: 600px;}
 h5{font-size: 24pt;}
 h6{font-size: 24pt;}
 
