@@ -40,7 +40,8 @@ ul{
   width: 75%;}
  
 .active{
-	background-color: #BB8FCE;}
+	background-color: #e30505;
+  color: white;}
 
 .container{
 	width: 60%;
