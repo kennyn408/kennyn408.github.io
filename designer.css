@@ -53,7 +53,8 @@ nav ul li a:hover{
   width: 75%;}
 
 .active{
-	background-color: #B40000;}
+	background-color: #B40000;
+  color: white;}
 
 .container{
 	width: 92%;
