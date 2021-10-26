@@ -10,7 +10,10 @@ h2{font-size: 24pt;
 	font-family: 'Josefin Sans', sans-serif;}
 h4{font-size: 24pt;
 	color: #9CF6F6;}
-h5{font-size: 24pt;}
+h5{font-size: 15pt;
+  color: #2c2c2c;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;}
 h6{font-size: 24pt;}
 
 url(https://fonts.googleapis.com/css?family=Open+Sans);
