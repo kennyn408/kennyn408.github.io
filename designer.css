@@ -61,11 +61,11 @@ nav ul li a:hover{
 
 .container{
 	width: 92%;
-	background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
+	background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%)
 	font-family: 'Josefin Sans', sans-serif;
 	color: white;
 	font-size: 20pt;
 	margin: auto;
 	padding: 20px;
 	text-align: center;
-  opacity: 50%;}
+  opacity: 90%;}
