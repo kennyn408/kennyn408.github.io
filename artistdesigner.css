@@ -2,7 +2,7 @@
 padding: 0}
 
 h1{font-size: 45pt;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 	color: #ff9b99;
   background: linear-gradient(to bottom left, #ff0000 0%, #6600ff 100%);}
 
@@ -28,7 +28,7 @@ nav ul li{
 
 nav ul li a{
   padding: 18px;
-  font-family: "Open Sans";
+  font-family: 'Josefin Sans', sans-serif;
   text-transform:uppercase;
   color: white;
   font-size: 18px;
