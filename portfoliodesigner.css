@@ -1,11 +1,6 @@
 *{margin: 0;
 padding: 0}
 
-h1{font-size: 45pt;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #e30505;
-  background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);}
-
 url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 html{
@@ -48,15 +43,6 @@ nav ul li a:hover{
 .active{
 	background-color: #e30505;
   color: white;}
-
-.container2{
-	text-align: center;
-	background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
-	font-size: 20pt;
-  font-family: 'Josefin Sans', sans-serif;
-	width: 60%;
-	margin: auto;
-	padding: 20px;}
 
 .gallery{ 
     -webkit-column-count: 6;

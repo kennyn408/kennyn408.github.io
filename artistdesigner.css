@@ -1,11 +1,6 @@
 *{margin: 0;
 padding: 0}
 
-h1{font-size: 45pt;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #ff9b99;
-  background: linear-gradient(to bottom left, #ff0000 0%, #6600ff 100%);}
-
 url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 html{
@@ -48,16 +43,6 @@ nav ul li a:hover{
 .active{
 	background-color: white;
   color: #e30505;}
-
-.container{
-	width: 60%;
-	background: linear-gradient(to bottom left, #ff0000 0%, #6600ff 100%);
-	font-family: 'Raleway', sans-serif;
-	color: navy;
-	font-size: 16pt;
-	margin: auto;
-	padding: 20px;
-	text-align: center;}
 
 .container2{
   width: 80%;
