@@ -61,12 +61,12 @@ nav ul li a:hover{
   width: 75%;}
 
 .active{
-  background-color: #e30505;
-  color: white;}
+  background-color: white;
+  color: #e30505;}
 
 .container{
   width: 92%;
-  background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
+  background: transparent;
   font-family: 'Josefin Sans', sans-serif;
   color: white;
   font-size: 20pt;
