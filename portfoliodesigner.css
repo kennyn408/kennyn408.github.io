@@ -25,7 +25,7 @@ nav ul li a{
   padding: 18px;
   font-family: 'Josefin Sans', sans-serif;
   text-transform:uppercase;
-  color: #e30505;
+  color: white;
   font-size: 18px;
   text-decoration: none;
   display: block;}
@@ -41,8 +41,8 @@ nav ul li a:hover{
   width: 75%;}
 
 .active{
-	background-color: #e30505;
-  color: white;}
+	background-color: white;
+  color: #e30505;}
 
 .gallery{ 
     -webkit-column-count: 6;
