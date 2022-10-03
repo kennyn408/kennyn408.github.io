@@ -17,9 +17,18 @@ h4{font-size: 20pt;
   font-family: 'Josefin Sans', sans-serif;
   text-align: right;
   background-color: transparent;
-  margin-left: 800px;}
+  margin-left: 800px};
 h5{font-size: 24pt;}
 h6{font-size: 24pt;}
+
+<style>
+  a:link {
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+</style>
 
 url(https://fonts.googleapis.com/css?family=Open+Sans);
 
