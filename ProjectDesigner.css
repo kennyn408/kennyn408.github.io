@@ -22,12 +22,12 @@ h5{font-size: 24pt;}
 h6{font-size: 24pt;}
 
 <style>
-  a:link, a:visited {
+  a:link {
     color: white;
     text-decoration: none;
   }
-  a:active {
-    color: #e30505;
+  a:visited {
+    color: white;
     text-decoration: none;
   }
 </style>
