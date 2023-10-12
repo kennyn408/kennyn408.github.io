@@ -90,6 +90,7 @@ nav ul li a:hover{
 .link-container {
   display: flex;
   justify-content: space-between;
+  color: white;
 }
 
 .previous-link, .next-link {
