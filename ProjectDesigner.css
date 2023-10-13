@@ -90,13 +90,9 @@ nav ul li a:hover{
 .link-container {
   display: flex;
   justify-content: space-between;
-  /*color: white;
-  font-size: 15pt;
-  background: transparent;
-  font-family: 'Josefin Sans', sans-serif;*/
 }
 
 .previous-link, .next-link {
   text-align: center; /* Optionally, you can center-align the link contents */
-  width: 40%; /* Adjust the width to your preference to leave space between the links */
+  width: 20%; /* Adjust the width to your preference to leave space between the links */
 }
