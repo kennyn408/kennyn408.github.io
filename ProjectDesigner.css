@@ -92,6 +92,8 @@ nav ul li a:hover{
   justify-content: space-between;
   color: white;
   font-size: 15pt;
+  background: transparent;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .previous-link, .next-link {
