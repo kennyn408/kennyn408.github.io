@@ -46,14 +46,16 @@ ul{
 	background-color: #e30505;
   color: white;}
 
-/*.container{
+.container{
 	width: 90%;
-	background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
+	background: transparent;
 	color: white;
 	font-size: 20pt;
 	margin: auto;
 	padding: 20px;
-	text-align: center;}*/
+	text-align: center;}
+ 
+ /* linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%)*/
 
 .aboutimages{
   text-align: center;}
