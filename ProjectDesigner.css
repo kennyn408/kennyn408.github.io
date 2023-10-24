@@ -46,7 +46,7 @@ nav ul li a{
   padding: 18px;
   font-family: 'Josefin Sans', sans-serif;
   text-transform:uppercase;
-  color: #969696;
+  color: white;
   font-size: 18px;
   text-decoration: none;
   display: block;}
@@ -63,7 +63,7 @@ nav ul li a:hover{
 
 .active{
 	background-color: white;
-  color: #e30505;}
+  color: #969696;}
 
 .container{
 	width: 92%;
