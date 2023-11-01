@@ -27,7 +27,7 @@ nav ul li a{
   padding: 18px;
   font-family: 'Josefin Sans', sans-serif;
   text-transform:uppercase;
-  color: #e30505;
+  color: #10133d;
   font-size: 18px;
   text-decoration: none;
   display: block;}
@@ -43,12 +43,12 @@ nav ul li a:hover{
   width: 75%;}
 
 .active{
-	background-color: #e30505;
+	background-color: #10133d;
   color: white;}
 
 .container2{
   width: 80%;
-  background: linear-gradient(to bottom right, #ffff66 0%, #ff5050 100%);
+  background: linear-gradient(to bottom right, #767ab3 0%, #3d4178 100%);
   font-family: 'Josefin Sans', sans-serif;
   color: navy;
   font-size: 16pt;
